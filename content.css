@@ -653,7 +653,6 @@ input:checked + label {
     margin-bottom: 20px;
     overflow-x: auto;
     white-space: nowrap;
-    width: 1500px;
     padding: 10px;
     justify-content: center;
     align-items: center;
